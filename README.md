@@ -6,6 +6,6 @@ REQUIREMENTS: Selenium, Python, Google Chrome
 INSTALLATION:
 $ git clone https://github.com/fred415/beemovie . Change contents of "secret.py" to your Instagram details. $ python3 beemovie.py
 
-More information in the "requirements.txt" file.
+More information in the "info.txt" file.
 
 My email: fred415415@protonmail.com. Feel free to edit the code or give any criticism ;)
