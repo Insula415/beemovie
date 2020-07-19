@@ -8,4 +8,4 @@ $ git clone https://github.com/fred415/beemovie . Change contents of "secret.py"
 
 More information in the "info.txt" file.
 
-My email: fred415415@protonmail.com. Feel free to edit the code or give any criticism ;)
+My email: fredisheretohelp@protonmail.com. Feel free to edit the code or give any criticism ;)
