@@ -1,0 +1,3 @@
+Log into instagram from a browser and click the message bar of the person you want to send it to,
+run the python file from terminal (python3 spammer.py) and whereever you click the script will type.
+To terminate the script, press ctrl + C in your terminal and it should stop.
