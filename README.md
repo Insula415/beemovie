@@ -3,10 +3,10 @@ A python program that sends the bee movie script to someone on Instagram by Fred
 
 
 INSTALLATION:
-$ git clone https://github.com/fred415/beemovie . $ python3 spammer.py
+$ git clone https://github.com/Insula415/beemovie . $ python3 spammer.py
 More information in "info.txt"
 
-
-My email: fredisheretohelp@protonmail.com. Feel free to edit the code or give any criticism ;)
-
 This code only took me around 5 minutes to write but i couldn't find anyone else with the code on github so here!
+
+Thanks, 
+Insula
